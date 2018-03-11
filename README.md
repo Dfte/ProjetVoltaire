@@ -3,8 +3,8 @@
 So what happened here is that i had a E-learning class at school that asked us to work at least 15 hours to have the maximum points.
 Since i ended up finishing everything in less than 5 hours i knew i would be screwed and got less points than my teamate...
 
-I had two choices :
--Loose 10 hours of my life doing tests over and over again 
+I had two choices : <br>
+-Loose 10 hours of my life doing tests over and over again <br>
 -Use this 10 hours to learn Python and then script something 
 
 Well i let you imagine what i decided ahaha!
