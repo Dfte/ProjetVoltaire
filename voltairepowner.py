@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #-.- coding: utf-8 -.-
-#evoltaire_powner.py
+#voltairepowner.py
 
 #Librairies needed
 import os
