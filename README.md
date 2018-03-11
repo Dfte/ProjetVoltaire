@@ -14,8 +14,8 @@ Well I let you imagine what I decided ahaha!
 
 So this tool is very easy to use, the only thing you have to do is to connect to the projet voltaire page and select the mock exam.
 I suggest you use this test because it lasts for a very long time.
-
-Launch the script using the option -t 150 (will make it more human like). It will show ou the exact position of your mouse :
+!
+Launch the script using the option -t 110 (if you enter a value > 120 the website will consider that you'are afk and not count the time spent ). It will show ou the exact position of your mouse :
 
 <img src="https://github.com/Dfte/ProjetVoltaire/blob/master/position.png"></img>
 
