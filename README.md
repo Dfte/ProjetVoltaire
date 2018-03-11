@@ -20,3 +20,5 @@ Launch the script and using your mouse point at the sentence then press Ctrl + C
 Now you can get out enjoy the sun since your computer will click automatically at the exact point you selected :) !
 
 Note that you can use the -t option to specify the time between two clicks so hat it looks "more human".
+
+Tool written in Python3 using pymouse librairie (check how to install in install.sh)
