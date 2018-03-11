@@ -32,4 +32,4 @@ If you want to stop the programm then press Ctrl + c one more time :
 
 <img src="https://github.com/Dfte/ProjetVoltaire/blob/master/leave.png"></img>
 
-Tool written in Python3 using pymouse librairie (check install.sh file) works for Linux only
+Tool written in Python3 using pymouse librairie (check install.sh file) works for Linux only.
