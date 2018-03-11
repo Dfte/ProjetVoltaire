@@ -15,8 +15,21 @@ Well I let you imagine what I decided ahaha!
 So this tool is very easy to use, the only thing you have to do is to connect to the projet voltaire page and select the mock exam.
 I suggest you use this test because it lasts for a very long time.
 
-Launch the script using the option -t 150 (will make it more human like). Using your mouse, point at the sentence then press Ctrl + C
+Launch the script using the option -t 150 (will make it more human like). It will show ou the exact position of your mouse :
+
+<img src="https://github.com/Dfte/ProjetVoltaire/blob/master/position.png"></img>
+
+Using your mouse, point at the sentence :
+
+<img src="https://github.com/Dfte/ProjetVoltaire/blob/master/point.png"></img>
+
+Then press Ctrl + C :
+
+<img src="https://github.com/Dfte/ProjetVoltaire/blob/master/firstctrlc.png"></img>
 
 Now you can get out enjoy the sun since your computer will click automatically at the exact point you selected :) !.
+If you want to stop the programm then press Ctrl + c one more time :
+
+<img src="https://github.com/Dfte/ProjetVoltaire/blob/master/leave.png"></img>
 
 Tool written in Python3 using pymouse librairie (check install.sh file) works for Linux only
