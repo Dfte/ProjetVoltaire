@@ -27,7 +27,7 @@ Then press Ctrl + C :
 
 <img src="https://github.com/Dfte/ProjetVoltaire/blob/master/firstctrlc.png"></img>
 
-Now you can get out enjoy the sun since your computer will click automatically at the exact point you selected :) !.
+Now you can get out enjoy the sun since your computer will click automatically at the exact point you selected :) !
 If you want to stop the programm then press Ctrl + c one more time :
 
 <img src="https://github.com/Dfte/ProjetVoltaire/blob/master/leave.png"></img>
