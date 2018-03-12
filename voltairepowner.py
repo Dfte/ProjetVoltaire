@@ -35,8 +35,8 @@ def getLocation():
 
 
 #This function is the scripting part that auto clicks wherever you specified.
-#It will click every 'timing' secondes at the point located at (x, y)
-#If you Ctrl + C it will exit the infinite loop and called the leave() function
+#It will click every 'timing' secondes at the point located at (x, y).
+#If you Ctrl + C, it will exit the infinite loop and called the leave() function.
 def launchScripting(x,y,timing):
 	#Let's get a quick idea of how many times you saved using my tool
 	start=time.time()
@@ -51,7 +51,7 @@ def launchScripting(x,y,timing):
 			leave(start)
 	return 0
 
-#This function prints the leaving banner and exits the programm
+#This function prints the leaving banner and exits the programm.
 def leave(start) :
 	finish=time.time()
 	print('''%s
@@ -66,13 +66,13 @@ def leave(start) :
 	sys.exit()
 
 #The argparse module allows us to interact with command lin easily.
-#There is only one option (time) since the tool is fully automated
+#There is only one option (time) since the tool is fully automated.
 #Note that you are not forced to use the -t since it has default value.
 parser=argparse.ArgumentParser()
 parser.add_argument('-t', help='Specify the time before each clicks.', dest='time', type=int)
 args=parser.parse_args() 
 
-#Let's clear the command line window
+#Let's clear the command line window.
 os.system("clear")
 
 #Printing our awesome welcome banner !! :D
@@ -95,7 +95,7 @@ mouse=pymouse.PyMouse()
 defaulttime=25
 
 #First of all we call the getlocation() function.
-#We get back the point and send it to the launchScripting() function that will auto clicks.
+#We receive the cursor coordinates (x,y ) and send it to the launchScripting() function that will auto clicks.
 #If you don't specify the -t option then it will use the defaulttime value.
 point=getLocation()
 if args.time == None :
